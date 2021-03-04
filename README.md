@@ -55,7 +55,9 @@ result
 
 Code is given in the file named as “fixedPoint.c”
 
-Summery: Fixed point arithmetic can reduce execution time significantly. It should be clear that fixed-point arithmetic will have small quantization error. In the case when accuracy is critical use floating-point otherwise use fixed-point arithmetic in the resource-constrained devices. By increasing fraction value “n” accuracy can be increased in the fixed-point arithmetic. Floating numbers and operations take more memory as compared to fixed-point.
+Summery: Fixed point arithmetic can reduce execution time significantly. It should be clear that fixed-point arithmetic will have small quantization error.
+In the case when accuracy is critical use floating-point otherwise use fixed-point arithmetic in the resource-constrained devices. 
+By increasing fraction value “n” accuracy can be increased in the fixed-point arithmetic. Floating numbers and operations take more memory as compared to fixed-point.
 
 
 
