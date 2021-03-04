@@ -3,7 +3,7 @@
 Frequently asked questions and  Answers: https://docs.google.com/document/d/1GH2Q-Dr8PxqmjQwxbL9UkLUDsel1xHCho7ggKwXeyAg/edit 
 
 
-
+For code Optimization:
 Floating Vs Fixed-point 
 In signal processing most important operation is inner product operation, which is basically dot product of two vectors. Most of the signal transforms are defined in the real field. Therefore, it requires  floating point operations. The TelosB mote can perform both floating-point and fixed-point arithmetic.  
 To emulate dot product we define the following code
